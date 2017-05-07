@@ -7,6 +7,10 @@ It's made thanks Nurrl's repository and the .lang files have been extracted from
 
 <a href="https://github.com/Nurrl/LocaleKeyboard.js">https://github.com/Nurrl/LocaleKeyboard.js</a>
 
+# How to use it?
+
+<a href="https://www.youtube.com/watch?v=gxE7GKLcC2w">https://www.youtube.com/watch?v=gxE7GKLcC2w</a>
+
 # Windows
 If you want to use this software in Windows, you should see this:
 
