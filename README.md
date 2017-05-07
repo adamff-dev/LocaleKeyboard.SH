@@ -1,5 +1,5 @@
 # LocaleKeyboard.SH
-A .SH file generates a Keyboard.cpp (For the Keyboard library) according to our locale choice. 
+This software generates a Keyboard.cpp (For the Keyboard library) according to our locale chosen.
 
 <img src="https://raw.githubusercontent.com/BlueArduino20/LocaleKeyboard.SH/master/Screenshot_1.png">
 
