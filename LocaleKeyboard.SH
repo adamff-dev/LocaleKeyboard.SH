@@ -15,7 +15,7 @@ echo "  A. Update localess from the internet"
 echo "------------------------------------------"
 echo "  B. Go to Nurrl's GitHub repository"
 echo "------------------------------------------"
-echo "  C. Go to the repository of this project"
+echo "  C. Go to BlueArduino20's repository"
 echo "------------------------------------------"
 
 echo -n "Write your number -> "
