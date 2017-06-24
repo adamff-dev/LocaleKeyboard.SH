@@ -7,11 +7,11 @@ It's made thanks Nurrl's repository and the .lang files have been extracted from
 
 <a href="https://github.com/Nurrl/LocaleKeyboard.js">https://github.com/Nurrl/LocaleKeyboard.js</a>
 
-# How to use it?
+<h2>How to use it?</h2>
 
 <a href="https://www.youtube.com/watch?v=gxE7GKLcC2w">https://www.youtube.com/watch?v=gxE7GKLcC2w</a>
 
-# Windows
+<h2>Windows</h2>
 If you want to use this software in Windows, you should see this:
 
 <a href="https://github.com/BlueArduino20/LocaleKeyboard.BAT">https://github.com/BlueArduino20/LocaleKeyboard.BAT</a>
