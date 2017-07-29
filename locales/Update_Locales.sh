@@ -22,6 +22,8 @@ echo Updating... Please, wait.
 wget https://raw.githubusercontent.com/Nurrl/LocaleKeyboard.js/master/locales/tr_TR.lang 
 echo Updating... Please, wait. 
 wget https://raw.githubusercontent.com/Nurrl/LocaleKeyboard.js/master/locales/it_IT.lang 
+echo Updating... Please, wait. 
+wget https://raw.githubusercontent.com/Nurrl/LocaleKeyboard.js/master/locales/sv_SE.lang 
 clear 
 echo "------------------------------------------"
 echo "                   Done!"
