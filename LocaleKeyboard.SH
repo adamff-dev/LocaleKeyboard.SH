@@ -10,6 +10,7 @@ echo "  1. en_US     5. be_BE     9. da_DK"
 echo "  2. en_UK     6. es_ES     10. pt_PT"
 echo "  3. de_DE     7. fi_FI     11. tr_TR"
 echo "  4. fr_FR     8. cz_CZ     12. it_IT"
+echo "              13. sv_SE"
 echo "------------------------------------------"
 echo "  A. Update localess from the internet"
 echo "------------------------------------------"
@@ -56,6 +57,8 @@ elif [ $LOC == 11 ]; then
 	LOCALE=tr_TR
 elif [ $LOC == 12 ]; then
 	LOCALE=it_IT
+elif [ $LOC == 13 ]; then
+	LOCALE=sv_SV
 fi
 
 rm Keyboard.cpp
